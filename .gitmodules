@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/1111307/dianping.git
+[submodule "protoinitialize"]
+	path = protoinitialize
+	url = https://github.com/1111307/protoinitialize.git
